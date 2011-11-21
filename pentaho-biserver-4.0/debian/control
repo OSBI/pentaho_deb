@@ -1,0 +1,15 @@
+Source: pentaho-biserver
+Section: contrib/misc
+Priority: extra
+Maintainer: Tom Barber <tom@analytical-labs.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+Homepage: http://analytical-labs.com
+#Vcs-Git: git://git.debian.org/collab-maint/pentaho-biserver.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/pentaho-biserver.git;a=summary
+
+Package: pentaho-biserver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Pentaho BI Server 4.0
+ This is the files for the Pentaho BI Server, it includes the Pentaho WARS and the Pentaho Solutions and Admin console directories.
