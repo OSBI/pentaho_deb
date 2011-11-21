@@ -1,0 +1,5 @@
+pentaho-biserver (4.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Tom Barber <tom@analytical-labs.com>  Mon, 21 Nov 2011 10:03:03 +0000
